@@ -1,0 +1,19 @@
+{
+  "name": "travis-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "livescript": "^1.5.0",
+    "prelude-ls": "^1.1.2"
+  },
+  "devDependencies": {
+    "colors": "^1.1.2"
+  }
+}
