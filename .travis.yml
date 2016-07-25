@@ -1,3 +1,5 @@
 language: node_js
 node_js:
-  - 5.11
+notifications:
+  email: false
+  slack: glad-cube:Dac35muOD6CBgRnfWXi4dtTx - 5.11
